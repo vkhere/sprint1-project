@@ -32,6 +32,7 @@ Perplexity) for research and documented our process using Agile methodology.
 ```
 
 ## AI Tools Used
+- MS Copilot ISMS - ISO27001 Complaince & research 
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
