@@ -36,3 +36,5 @@ Perplexity) for research and documented our process using Agile methodology.
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
+- Napkin.AI - Generate Diagram and Illustrations
+- Gamma.ai - AI Based PPT Slides 
