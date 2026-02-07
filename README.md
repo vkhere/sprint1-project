@@ -37,4 +37,4 @@ Perplexity) for research and documented our process using Agile methodology.
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
 - Napkin.AI - Generate Diagram and Illustrations
-- Gamma.ai - AI Based PPT Slides 
+- Gamma.app - AI Based PPT Slides 
