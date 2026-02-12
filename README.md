@@ -37,4 +37,5 @@ We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and do
 - Perplexity - Research with citations
 - Napkin.AI - Generate Diagram and Illustrations
 - Gamma.app - AI Based PPT Slides
+- Claude - Documentation & Writing 
 - Now Assist - Servicenow AI Assistant
