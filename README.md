@@ -3,10 +3,10 @@
 Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 
 ## Team
-- Kedar Pavaskar - Scrum Master
-- Kedar Pavaskar - Threat Researcher
-- Vinay Kumar - Defense Analyst
-- Vinay Kumar - GitHub Lead
+- Kedar Pavaskar - Documentation Lead
+- Kedar Pavaskar - Compliance Analyst
+- Vinay Kumar - Audit Coordinator
+- Vinay Kumar - Scrum Master
 
 ## Project Overview
 This repository contains our security analysis research on ISO 27001 Certification, completed during Sprint 1 (2 weeks).
