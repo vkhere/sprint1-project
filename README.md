@@ -3,20 +3,19 @@
 Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 
 ## Team
-- [Name] - Scrum Master
-- [Name] - Threat Researcher
-- [Name] - Defense Analyst
-- [Name] - GitHub Lead
+- Kedar Pavaskar - Scrum Master
+- Kedar Pavaskar - Threat Researcher
+- Vinay Kumar - Defense Analyst
+- Vinay Kumar - GitHub Lead
 
 ## Project Overview
-This repository contains our security analysis research on [Topic],
-completed during Sprint 1 (2 weeks). We used AI tools (ChatGPT, Gemini,
-Perplexity, ISMS Copilot) for research and documented our process using Agile methodology.
+This repository contains our security analysis research on ISO 27001 Certification, completed during Sprint 1 (2 weeks).
+We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and documented our process using Agile methodology.
 
 ## Key Findings
 - A specialized AI for ISO 27001: ISMS Copilot
-- [Brief finding 2]
-- [Brief finding 3]
+- Personal Developer Instance of Servicenow ITSM: https://dev268752.service-now.com/now/nav/ui/home
+- Github 
 
 ## Repository Structure
 ```
@@ -32,9 +31,10 @@ Perplexity, ISMS Copilot) for research and documented our process using Agile me
 ```
 
 ## AI Tools Used
-- MS Copilot ISMS - ISO27001 Complaince & research 
+- MS Copilot ISMS - ISO27001 Compliance & Research 
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
 - Perplexity - Research with citations
 - Napkin.AI - Generate Diagram and Illustrations
 - Gamma.app - AI Based PPT Slides
+- Now Assist - Servicenow AI Assistant
