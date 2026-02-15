@@ -1,14 +1,14 @@
-# ISO 27001 Certification - ISMS Compliance Analysis Report - Group 9
+# 🔐 ISO 27001 Certification – ISMS Compliance Analysis Report  
 
 Sprint 1 Project for IIT Roorkee PG Certification in AI-Enabled Cybersecurity
 
-## Team
+### 👥 Team
 - Kedar Pavaskar - Documentation Lead
 - Kedar Pavaskar - Compliance Analyst
 - Vinay Kumar - Audit Coordinator
 - Vinay Kumar - Scrum Master
 
-## Project Overview
+## 📘 Project Overview
 This repository contains our security analysis research on ISO 27001 Certification, completed during Sprint 1 (2 weeks).
 We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and documented our process using Agile methodology.
 
@@ -17,7 +17,7 @@ We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and do
 - Personal Developer Instance of Servicenow ITSM: https://dev268752.service-now.com/now/nav/ui/home
 - Github 
 
-## Repository Structure
+## 🗂️ Repository Structure
 ```
 ├── README.md
 ├── report/
@@ -30,7 +30,7 @@ We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and do
     └── [member]-prompts.md
 ```
 
-## AI Tools Used
+🤖 AI Tools Used
 - MS Copilot ISMS - ISO27001 Compliance & Research 
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
