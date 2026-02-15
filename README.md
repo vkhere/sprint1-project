@@ -31,6 +31,7 @@ We used AI tools (ChatGPT, Gemini, Perplexity, ISMS Copilot) for research and do
 ```
 
 🤖 AI Tools Used
+- Framework: ISO/IEC 27001:2022
 - MS Copilot ISMS - ISO27001 Compliance & Research 
 - ChatGPT (Free) - General research, writing assistance
 - Google Gemini - Recent information, web access
