@@ -15,4 +15,5 @@ The video explains:
 
 ## 📘 Presentation PPT Deck
 
-Presentation Slide Pack Link https://docs.google.com/presentation/d/1IqJ8GnP5W3DFw06e18nZgvWeilqqSMCB/edit?usp=sharing&ouid=109935471516792246035&rtpof=true&sd=true
+Presentation Slide Pack 
+Link https://docs.google.com/presentation/d/1IqJ8GnP5W3DFw06e18nZgvWeilqqSMCB/edit?usp=sharing&ouid=109935471516792246035&rtpof=true&sd=true
